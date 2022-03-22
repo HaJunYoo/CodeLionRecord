@@ -2,28 +2,18 @@
 
 ### 코드라이언 수강하는 __유하준__ 입니다 
 
+---
+
 # 다양한 경험을 가진 데이터 엔지니어가 되고 싶은 유하준입니다
 
 👋 **"Connecting the dots, So you have to trust that the dots will somehow connect in your future." -Steve Jobs**
 
-![%E1%84%83%E1%85%A1%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%80%209cc5e/KakaoTalk_20210302_090451681.jpg](%E1%84%83%E1%85%A1%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%80%209cc5e/KakaoTalk_20210302_090451681.jpg)
+----
 
 - 다양한 경험에서 나오는 색다른 시각으로 데이터를 바라보기 위해 노력합니다
-- 데이터 도메인을 이해하는 파이프라인을 만들어나갈 수 있는 개발자가 되기 위해 노력합니다
+- 데이터 도메인을 이해하는 파이프라인을 만들어나갈 수 있는 개발자가 되기 위해 노력합니다 
 - 어제보다 더 나은 내가 되기 위해 나아갑니다
 - 소통을 통해 더 나은 결과를 도출해내기 위해 노력합니다
----
-
-## Contact
-
-📞 010. 4628. 5998
-
-👔 hajuny129@gmail.com
-
-🎀  **[Github](https://github.com/HaJunYoo) | [Naver Blog](https://blog.naver.com/hajuny2903) | [Tistory Blog](https://hajuny2903.tistory.com/)**
-
-[HaJunYoo - Overview](https://github.com/HaJunYoo)
-
 ---
 
 ## 💡**My Path**
