@@ -1,80 +1,37 @@
 # CodeLionRecord
 
 ### 코드라이언 수강하는 __유하준__ 입니다 
-
----
-
-# 다양한 경험을 가진 데이터 엔지니어가 되고 싶은 유하준입니다
+이곳에 코드 라이언 공부 내역을 적을 것입니다
 
 👋 **"Connecting the dots, So you have to trust that the dots will somehow connect in your future." -Steve Jobs**
 
 ----
 
-- 다양한 경험에서 나오는 색다른 시각으로 데이터를 바라보기 위해 노력합니다
-- 데이터 도메인을 이해하는 파이프라인을 만들어나갈 수 있는 개발자가 되기 위해 노력합니다 
-- 어제보다 더 나은 내가 되기 위해 나아갑니다
-- 소통을 통해 더 나은 결과를 도출해내기 위해 노력합니다
----
+# 멋사
 
-## 💡**My Path**
+<details>
+<summary> 1주차 </summary>
 
-### 학력
+git master branch terminal 탈출
 
-- 한국외국어대학교 산업경영공학과 재학 중 (컴퓨터공학과 부전공)
+`$ rm -rf ~/.git`
 
-### 대외활동 및 수상
+VS code code . 으로 터미널에서 열기
 
-- 한국외국어대학교 산업경영공학과 학부 연구생(Prof. Bernardo Yahya)
-- 한국외국어대학교 SW봉사단(2020.8 ~ 12)
-- 빅데이터 연합 동아리 비타민(BITAmin) (7기 기획부, 8기 멤버 | 2021.2 ~2022.8)
-- 멋쟁이 사자처럼 (글로벌 캠퍼스) (10기 | 2022.3 ~)
+[https://helloinyong.tistory.com/223](https://helloinyong.tistory.com/223)
 
-### 대외 공모전 및 대회 수상
+mac os에 git hub 설치
 
-- 한국지능정보사회진흥원 빅데이터 센터 주최 "2021년 데이터 크리에이터 캠프" 대상
-- 국민대학교 빅데이터 분석 학회 “D&A” click stream data gender classification kaggle 대회 1등
+[https://lsjsj92.tistory.com/596](https://lsjsj92.tistory.com/596)
 
-### 특색있는 경험
+github ssh 키 등록 오류 해결 
 
-- Hotel Front Manager & FnB Manager
-- 외식업 창업 경험 (한식)
-- 한국음식관광박람회 금상 (2018)
+[https://xho95.github.io/macos/security/openssh/ssh/gitlab/2017/02/22/Using-SSH-on-Mac.html](https://xho95.github.io/macos/security/openssh/ssh/gitlab/2017/02/22/Using-SSH-on-Mac.html)
 
-### 자격증
+zsh ~ bash shell 전환
 
-- HSK 5급 (2016.10)
-- SQLd
+[https://worker-k.tistory.com/entry/mac-m1-bash-zsh-터미널-변경해서-사용하기](https://worker-k.tistory.com/entry/mac-m1-bash-zsh-%ED%84%B0%EB%AF%B8%EB%84%90-%EB%B3%80%EA%B2%BD%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 
-**희망 자격증**
+</div>
+</details>
 
-- AWS associate
-- 빅데이터 분석 기사
-- Tensorflow certificate
-
----
-
-## 🖼 Introduce
-
-### **다양한 경험**
-
-관광업 관리자부터 시작해 외식업, 개발까지 여러 다양한 경험을 가진 청년입니다
-
-### **열정**
-
-맡은 일에 열정이 넘치는 청년
-
----
-
-## 👓 Ability & Skills
-
-다양한 분야에 흥미를 가지고 있으며 꾸준히 공부를 해나가고 있습니다.
-
-[Skills Record ](https://www.notion.so/21270ffb80544967974a52fb989bdad0)
-
----
-
-## 🔗 Portfolio
-
-[Project ](https://www.notion.so/34dd002965024c74a230947d3f204182)
-
-[대외활동_비타민_BITAmin (데이터 분석 동아리) ](https://www.notion.so/a4cd1e3225754902b6efde024745def3)
