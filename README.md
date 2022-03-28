@@ -64,12 +64,17 @@ zsh ~ bash shell 전환
 <summary> 2주차 </summary>
 
   ● node, npm 설치 
+  
   Homebrew를 설치 후 아래 명령어를 통해 설치합니다.
 
-  $ brew update
+  $ brew update 
+  
   $ brew install node
+  
   $ node -v
+  
   $ npm -v
+  
   node -v 와 npm -v 를 통해 모두 정상 설치되었는지 확인합니다.
 
 </div>
