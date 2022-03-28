@@ -1,9 +1,13 @@
 # CodeLionRecord
 
 ### 🦁 코드라이언 수강하는 __유하준__ 입니다 
-이곳에 코드 라이언 공부 내역을 적을 것입니다
+이곳에 코드 라이언 10기에서 공부 내역을 적을 것입니다
 
 👋 **"Connecting the dots, So you have to trust that the dots will somehow connect in your future." -Steve Jobs**
+
+---
+
+# 코드 라이언 수업 수강
 
 <details>
 <summary> 주차별 진도 수강 </summary>
@@ -25,7 +29,7 @@
 
 ----
 
-# 멋사
+# 멋사 10기 세션
 
 <details>
 <summary> 복사용 </summary>
