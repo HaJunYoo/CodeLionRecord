@@ -39,13 +39,12 @@
 
 <details>
 <summary> 복사용 </summary>
-
-</div>
 </details>
 
 
 <details>
 <summary> 1주차 </summary>
+<div>
 
 git master branch terminal 탈출
 
@@ -72,6 +71,7 @@ zsh ~ bash shell 전환
 
 <details>
 <summary> 2주차 </summary>
+<div>
 
   ● node, npm 설치 
   
