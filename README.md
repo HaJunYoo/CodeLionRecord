@@ -31,8 +31,7 @@
   
 <summary> HTML/CSS </summary>
 [HTML/CSS -> Github] (https://github.com/HaJunYoo/CodeLionRecord/tree/main/html_css)
-  
-<details>
+ </details>
 
 
 ----------
