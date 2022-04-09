@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap');
+/*구글의 몬세라 폰트 부르기 -> import */
+
+* {
+    font-family: 'Montserrat';
+}
+/** : 이 문서 모두에 해당하는 css 문법
+불러온 이후에 폰트 명시
+폰트를 전체 문서 적용 */
+
+
+body,h1,h2 {
+    margin:0px;
+    padding:0px;
+}
+/*마진과 패딩 일관되게 보이게 적용*/
+
+body {
+    min-width: fit-content;
+}
+/*임의로 넣어준 것*/
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: lighter;
+    color : #282828 ;
+    border-bottom: 1px solid #ebebeb;
+    /*아래줄 밑줄 그어주기*/
+    margin-bottom : 16px ;
+    padding-bottom : 5px ;
+}
+/*lighter ->얇은 글씨*/
+
+
+
+   
+.mainbox{
+      width:610px;
+      padding: 30px;
+    /*패딩 : 내부 여백 | 마진 : 외부 여백 */
+      margin: 30px;
+      margin-right: auto;
+      margin-left: auto;
+    /* 둘다 auto로 설정 시 -> 가운데 정렬 */
+
+      border: 1px solid #ebebeb;
+    /*테두리를 그림 */
+
+      box-shadow: 0 1px 20px 0 rgba(0,0,0,0.1);
+    /*X축 그림자 | Y축 그림자 | blur | spread | 그림자의 색깔(rgb + opacity) */
+}
+
+
+
+section {
+    margin-bottom: 24px;
+}
+
+/*class css */
+.name-text {
+    font-size: 17px;
+    color: #7c7c7c;
+    /*css color code*/
+    font-weight: bold;
+}
+
+.about-me-text {
+    font-size: 10px;
+    line-height: 16px;
+    /*줄간 간격 */
+}
+
+.title-text {
+    font-size: 11px;
+    font-weight: bold;
+    color: #282828;
+    float : left ;
+    /*붕붕 떠 다니되 한 줄에서 왼쪽에서 붙어서 떠다녀라*/
+}
+/*float는 겹칠 확률이 높음*/
+
+.year-text {
+    font-size: 11px;
+    font-weight: bold;
+    color: #282828;
+    float : right ;
+}
+
+/*float를 하면 겹치기 때문에 그를 방지*/
+.float-wrap {
+    overflow: hidden ;
+}
+/*overflow : hidden -> float 사용시 다른 요소들과 겹치치 않게 됨*/
+
+.desc-text {
+    font-size: 9px;
+    margin-bottom:6px;
+}
+
+.desc-subtext {
+    font-size: 9px;
+    color:#282828;
+    padding-left:16px;
+    margin-bottom:8px;
+}
+
+
+
+footer {
+    text-align: center;
+    background-color: #1e1e1e;
+    padding: 20px;
+    font-size: 12px;
+    color: #919191;
+}
+
+.title-box {
+    text-align: right;
+}
+
+.sns-img {
+    width: 12px;
+    height: 12px;
+}
+
+.sns-wrap {
+    text-align: right;
+}

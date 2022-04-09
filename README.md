@@ -1,13 +1,42 @@
 # CodeLionRecord
 
 ### 🦁 코드라이언 수강하는 __유하준__ 입니다 
-이곳에 코드 라이언 공부 내역을 적을 것입니다
+이곳에 코드 라이언 10기에서 공부 내역을 적을 것입니다
 
 👋 **"Connecting the dots, So you have to trust that the dots will somehow connect in your future." -Steve Jobs**
 
+---
+
+# 코드 라이언 수업 수강
+
+<details>
+<summary> 주차별 진도 수강 </summary>
+  
+  ### 백엔드 트랙
+
+- Django와 친해지기
+- [Project 1] 회사 소개 사이트
+- [Project 2-1] 개발자 대나무숲 프로젝트 준비하기
+- [Project 2-2] 개발자 대나무숲 프로젝트
+
+** Project 1과 2를 마치시고, 뒷 챕터의 학습을 원한다면 자율적으로 수강 하시면 됩니다. **
+  
+<img width="500" alt="스크린샷 2022-03-28 오후 5 05 52" src="https://user-images.githubusercontent.com/58240677/160354057-d364dc7d-85d1-4d42-a4a4-cdd6c18d331c.png">
+
+
+
+</details>
+
 ----
 
-# 멋사
+# 멋사 10기 세션
+
+<details>
+<summary> 복사용 </summary>
+
+</div>
+</details>
+
 
 <details>
 <summary> 1주차 </summary>
@@ -34,4 +63,25 @@ zsh ~ bash shell 전환
 
 </div>
 </details>
+
+<details>
+<summary> 2주차 </summary>
+
+  ● node, npm 설치 
+  
+  Homebrew를 설치 후 아래 명령어를 통해 설치합니다.
+
+  $ brew update 
+  
+  $ brew install node
+  
+  $ node -v
+  
+  $ npm -v
+  
+  node -v 와 npm -v 를 통해 모두 정상 설치되었는지 확인합니다.
+
+</div>
+</details>
+
 
