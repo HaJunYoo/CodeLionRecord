@@ -34,6 +34,13 @@
   
 </details>
 
+<details>
+  
+<summary> 멋사 3주차 강의 </summary>
+[Python(1) -> Github] (https://github.com/HaJunYoo/CodeLionRecord/tree/main/python)
+  
+</details>
+
 
 ----------
 
