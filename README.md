@@ -110,3 +110,11 @@ zsh ~ bash shell 전환
 
 
 
+<details>
+<summary> 6주차 세션 </summary>
+<div>
+
+[세션] (https://github.com/HaJunYoo/django_react_basic)
+
+</div>
+</details>
