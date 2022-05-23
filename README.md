@@ -40,8 +40,10 @@
 [Python(1) -> Github] (https://github.com/HaJunYoo/CodeLionRecord/tree/main/python)
   
 </details>
+<details>
+<summary>Django와 친해지기</summary>
 
-
+</details>
 ----------
 
 # 멋사 10기 세션
