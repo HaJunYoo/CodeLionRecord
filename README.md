@@ -120,3 +120,12 @@ zsh ~ bash shell 전환
 
 </div>
 </details>
+
+<details>
+<summary> 8주차 세션 </summary>
+<div>
+
+[Django 심화] (https://github.com/HaJunYoo/django_generic_view_basic)
+
+</div>
+</details>
