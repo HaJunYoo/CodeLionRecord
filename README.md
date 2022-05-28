@@ -50,11 +50,15 @@
 [코드라이언 쟝고] (https://github.com/HaJunYoo/codelion-django)
 
 
-</details>
-
 
 </details>
-----------
+
+<details>
+<summary>필기</summary>
+
+[필기] (https://innovative-tortoise-4fd.notion.site/96d9840a782e4f8d88148661273bf91e)
+
+</details>
 
 # 멋사 10기 세션
 
