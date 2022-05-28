@@ -47,7 +47,7 @@
 
 [카페 프로젝트] (https://github.com/HaJunYoo/cafeproject_codelion)
 
-
+[코드라이언 쟝고] (https://github.com/HaJunYoo/codelion-django)
 
 
 </details>
