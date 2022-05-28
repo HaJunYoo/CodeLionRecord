@@ -43,6 +43,16 @@
 <details>
 <summary>Django와 친해지기</summary>
 
+[기본] (https://github.com/HaJunYoo/codelion_django_1) 
+
+[카페 프로젝트] (https://github.com/HaJunYoo/cafeproject_codelion)
+
+
+
+
+</details>
+
+
 </details>
 ----------
 
