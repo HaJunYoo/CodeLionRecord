@@ -62,7 +62,7 @@
 <details>
 <summary>필기</summary>
 
-[필기] (https://innovative-tortoise-4fd.notion.site/96d9840a782e4f8d88148661273bf91e)
+[쟝고 ] (https://www.notion.so/innovative-tortoise-rec-django/Django-4ea0433ca0a74fcc9948fcd3a43f489c)
 
 </details>
 
