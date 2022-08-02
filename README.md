@@ -40,14 +40,17 @@
 [Python(1) -> Github] (https://github.com/HaJunYoo/CodeLionRecord/tree/main/python)
   
 </details>
-<details>
-<summary>Django와 친해지기</summary>
 
+<summary>Django와 친해지기(5~7주차)</summary>
+
+<details>
 [기본] (https://github.com/HaJunYoo/codelion_django_1) 
+  
+[코드라이언 쟝고] (https://github.com/HaJunYoo/codelion-django)  
 
 [카페 프로젝트] (https://github.com/HaJunYoo/cafeproject_codelion)
 
-[코드라이언 쟝고] (https://github.com/HaJunYoo/codelion-django)
+</details>
 
 
 
