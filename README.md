@@ -42,7 +42,7 @@
 </details>
 <details>
 <summary>Django와 친해지기(5~7주차)</summary>
-</details>
+
 
 [기본] (https://github.com/HaJunYoo/codelion_django_1) 
   
@@ -54,7 +54,7 @@
 - [Project 2-2] 개발자 대나무숲 프로젝트
 - [카페 프로젝트] (https://github.com/HaJunYoo/cafeproject_codelion)
 
-
+</details>
 
 
 </details>
