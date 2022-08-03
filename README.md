@@ -44,15 +44,16 @@
 <summary>Django와 친해지기(5~7주차)</summary>
 
 
-[기본] (https://github.com/HaJunYoo/codelion_django_1) 
-  
-[코드라이언 쟝고] (https://github.com/HaJunYoo/codelion-django)  
-
-- Django와 친해지기
 - [Project 1] 회사 소개 사이트
+  - [기본 쟝고 정리] (https://github.com/HaJunYoo/codelion_django_1) 
+  
+  
+- Django와 친해지기
+
 - [Project 2-1] 개발자 대나무숲 프로젝트 준비하기
 - [Project 2-2] 개발자 대나무숲 프로젝트
-- [카페 프로젝트] (https://github.com/HaJunYoo/cafeproject_codelion)
+  - [코드라이언 쟝고 정리] (https://github.com/HaJunYoo/codelion-django)  
+  - [카페 프로젝트 깃허브 링크] (https://github.com/HaJunYoo/cafeproject_codelion)
 
 </details>
 
@@ -62,7 +63,7 @@
 <details>
 <summary>필기</summary>
 
-[쟝고 ] (https://www.notion.so/innovative-tortoise-rec-django/Django-4ea0433ca0a74fcc9948fcd3a43f489c)
+[쟝고 노션 정리] (https://innovative-tortoise-rec-django.notion.site/Django-4ea0433ca0a74fcc9948fcd3a43f489c)
 
 </details>
 
